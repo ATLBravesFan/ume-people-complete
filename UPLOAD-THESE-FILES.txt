@@ -1,0 +1,9 @@
+Upload ALL contents of this folder to the root of your GitHub repository:
+
+.github/workflows/deploy-pages.yml
+.gitignore
+README-FIRST.md
+people.json
+scripts/build_catalogs.py
+
+Do NOT upload your AIOMetadata config or Strand .strand backup to a public repository.

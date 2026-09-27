@@ -1,0 +1,531 @@
+{
+  "version": "5.0.0",
+  "summary": {
+    "actors": 59,
+    "actorMovieCatalogs": 59,
+    "actorShowCatalogs": 59,
+    "directors": 20,
+    "directorMovieCatalogs": 20,
+    "totalCatalogs": 138,
+    "existingCatalogIdsPreserved": 121,
+    "newActorShowCatalogs": 17,
+    "hosting": "GitHub Pages static catalogs generated from TMDB"
+  },
+  "actors": [
+    {
+      "name": "Adam Sandler",
+      "searchName": "Adam Sandler",
+      "movieCatalogId": "mdblist.158994",
+      "showCatalogId": "ume.actor.adam-sandler.shows",
+      "showCatalogIsNew": true
+    },
+    {
+      "name": "Angelina Jolie",
+      "searchName": "Angelina Jolie",
+      "movieCatalogId": "mdblist.158995",
+      "showCatalogId": "ume.actor.angelina-jolie.shows",
+      "showCatalogIsNew": true
+    },
+    {
+      "name": "Anne Hathaway",
+      "searchName": "Anne Hathaway",
+      "movieCatalogId": "mdblist.158996",
+      "showCatalogId": "mdblist.158997",
+      "showCatalogIsNew": false
+    },
+    {
+      "name": "Arnold Schwarzenegger",
+      "searchName": "Arnold Schwarzenegger",
+      "movieCatalogId": "mdblist.158999",
+      "showCatalogId": "mdblist.159001",
+      "showCatalogIsNew": false
+    },
+    {
+      "name": "Ben Stiller",
+      "searchName": "Ben Stiller",
+      "movieCatalogId": "mdblist.159002",
+      "showCatalogId": "ume.actor.ben-stiller.shows",
+      "showCatalogIsNew": true
+    },
+    {
+      "name": "Benedict Cumberbatch",
+      "searchName": "Benedict Cumberbatch",
+      "movieCatalogId": "mdblist.159003",
+      "showCatalogId": "mdblist.159004",
+      "showCatalogIsNew": false
+    },
+    {
+      "name": "Bill Murray",
+      "searchName": "Bill Murray",
+      "movieCatalogId": "mdblist.159008",
+      "showCatalogId": "ume.actor.bill-murray.shows",
+      "showCatalogIsNew": true
+    },
+    {
+      "name": "Brad Pitt",
+      "searchName": "Brad Pitt",
+      "movieCatalogId": "mdblist.159009",
+      "showCatalogId": "ume.actor.brad-pitt.shows",
+      "showCatalogIsNew": true
+    },
+    {
+      "name": "Channing Tatum",
+      "searchName": "Channing Tatum",
+      "movieCatalogId": "mdblist.159010",
+      "showCatalogId": "mdblist.159011",
+      "showCatalogIsNew": false
+    },
+    {
+      "name": "Christian Bale",
+      "searchName": "Christian Bale",
+      "movieCatalogId": "mdblist.159014",
+      "showCatalogId": "ume.actor.christian-bale.shows",
+      "showCatalogIsNew": true
+    },
+    {
+      "name": "Chuck Norris",
+      "searchName": "Chuck Norris",
+      "movieCatalogId": "mdblist.159016",
+      "showCatalogId": "mdblist.159017",
+      "showCatalogIsNew": false
+    },
+    {
+      "name": "Clint Eastwood",
+      "searchName": "Clint Eastwood",
+      "movieCatalogId": "mdblist.159018",
+      "showCatalogId": "mdblist.159278",
+      "showCatalogIsNew": false
+    },
+    {
+      "name": "Daniel Craig",
+      "searchName": "Daniel Craig",
+      "movieCatalogId": "mdblist.159019",
+      "showCatalogId": "mdblist.159274",
+      "showCatalogIsNew": false
+    },
+    {
+      "name": "Denzel Washington",
+      "searchName": "Denzel Washington",
+      "movieCatalogId": "mdblist.159027",
+      "showCatalogId": "mdblist.159276",
+      "showCatalogIsNew": false
+    },
+    {
+      "name": "Dwayne Johnson",
+      "searchName": "Dwayne Johnson",
+      "movieCatalogId": "mdblist.159028",
+      "showCatalogId": "mdblist.159277",
+      "showCatalogIsNew": false
+    },
+    {
+      "name": "Emma Stone",
+      "searchName": "Emma Stone",
+      "movieCatalogId": "mdblist.159029",
+      "showCatalogId": "mdblist.159031",
+      "showCatalogIsNew": false
+    },
+    {
+      "name": "Florence Pugh",
+      "searchName": "Florence Pugh",
+      "movieCatalogId": "mdblist.159033",
+      "showCatalogId": "mdblist.159035",
+      "showCatalogIsNew": false
+    },
+    {
+      "name": "George Clooney",
+      "searchName": "George Clooney",
+      "movieCatalogId": "mdblist.159038",
+      "showCatalogId": "mdblist.159039",
+      "showCatalogIsNew": false
+    },
+    {
+      "name": "Harrison Ford",
+      "searchName": "Harrison Ford",
+      "movieCatalogId": "mdblist.159040",
+      "showCatalogId": "mdblist.159041",
+      "showCatalogIsNew": false
+    },
+    {
+      "name": "Jack Black",
+      "searchName": "Jack Black",
+      "movieCatalogId": "mdblist.159042",
+      "showCatalogId": "mdblist.159043",
+      "showCatalogIsNew": false
+    },
+    {
+      "name": "Jackie Chan",
+      "searchName": "Jackie Chan",
+      "movieCatalogId": "mdblist.159044",
+      "showCatalogId": "ume.actor.jackie-chan.shows",
+      "showCatalogIsNew": true
+    },
+    {
+      "name": "Jake Gyllenhaal",
+      "searchName": "Jake Gyllenhaal",
+      "movieCatalogId": "mdblist.159477",
+      "showCatalogId": "ume.actor.jake-gyllenhaal.shows",
+      "showCatalogIsNew": true
+    },
+    {
+      "name": "Jason Statham",
+      "searchName": "Jason Statham",
+      "movieCatalogId": "mdblist.159046",
+      "showCatalogId": "ume.actor.jason-statham.shows",
+      "showCatalogIsNew": true
+    },
+    {
+      "name": "Jenna Ortega",
+      "searchName": "Jenna Ortega",
+      "movieCatalogId": "mdblist.159047",
+      "showCatalogId": "mdblist.159048",
+      "showCatalogIsNew": false
+    },
+    {
+      "name": "Jennifer Aniston",
+      "searchName": "Jennifer Aniston",
+      "movieCatalogId": "mdblist.159052",
+      "showCatalogId": "mdblist.159054",
+      "showCatalogIsNew": false
+    },
+    {
+      "name": "Jennifer Lawrence",
+      "searchName": "Jennifer Lawrence",
+      "movieCatalogId": "mdblist.159056",
+      "showCatalogId": "ume.actor.jennifer-lawrence.shows",
+      "showCatalogIsNew": true
+    },
+    {
+      "name": "Jim Carrey",
+      "searchName": "Jim Carrey",
+      "movieCatalogId": "mdblist.159078",
+      "showCatalogId": "mdblist.159279",
+      "showCatalogIsNew": false
+    },
+    {
+      "name": "Johnny Depp",
+      "searchName": "Johnny Depp",
+      "movieCatalogId": "mdblist.159079",
+      "showCatalogId": "mdblist.159080",
+      "showCatalogIsNew": false
+    },
+    {
+      "name": "Jonah Hill",
+      "searchName": "Jonah Hill",
+      "movieCatalogId": "mdblist.159084",
+      "showCatalogId": "mdblist.159280",
+      "showCatalogIsNew": false
+    },
+    {
+      "name": "Julia Roberts",
+      "searchName": "Julia Roberts",
+      "movieCatalogId": "mdblist.159086",
+      "showCatalogId": "mdblist.159087",
+      "showCatalogIsNew": false
+    },
+    {
+      "name": "Katherine Heigl",
+      "searchName": "Katherine Heigl",
+      "movieCatalogId": "mdblist.159089",
+      "showCatalogId": "mdblist.159090",
+      "showCatalogIsNew": false
+    },
+    {
+      "name": "Leonardo DiCaprio",
+      "searchName": "Leonardo DiCaprio",
+      "movieCatalogId": "mdblist.159219",
+      "showCatalogId": "ume.actor.leonardo-dicaprio.shows",
+      "showCatalogIsNew": true
+    },
+    {
+      "name": "Lily Collins",
+      "searchName": "Lily Collins",
+      "movieCatalogId": "mdblist.159220",
+      "showCatalogId": "mdblist.159222",
+      "showCatalogIsNew": false
+    },
+    {
+      "name": "Margot Robbie",
+      "searchName": "Margot Robbie",
+      "movieCatalogId": "mdblist.159225",
+      "showCatalogId": "mdblist.159281",
+      "showCatalogIsNew": false
+    },
+    {
+      "name": "Matt Damon",
+      "searchName": "Matt Damon",
+      "movieCatalogId": "mdblist.159226",
+      "showCatalogId": "ume.actor.matt-damon.shows",
+      "showCatalogIsNew": true
+    },
+    {
+      "name": "Matthew McConaughey",
+      "searchName": "Matthew McConaughey",
+      "movieCatalogId": "mdblist.159228",
+      "showCatalogId": "mdblist.159230",
+      "showCatalogIsNew": false
+    },
+    {
+      "name": "Melissa McCarthy",
+      "searchName": "Melissa McCarthy",
+      "movieCatalogId": "mdblist.159231",
+      "showCatalogId": "mdblist.159232",
+      "showCatalogIsNew": false
+    },
+    {
+      "name": "Meryl Streep",
+      "searchName": "Meryl Streep",
+      "movieCatalogId": "mdblist.159233",
+      "showCatalogId": "mdblist.159282",
+      "showCatalogIsNew": false
+    },
+    {
+      "name": "Michael „Bully“ Herbig",
+      "searchName": "Michael Herbig",
+      "movieCatalogId": "mdblist.159235",
+      "showCatalogId": "mdblist.159283",
+      "showCatalogIsNew": false
+    },
+    {
+      "name": "Mila Kunis",
+      "searchName": "Mila Kunis",
+      "movieCatalogId": "mdblist.159238",
+      "showCatalogId": "mdblist.159239",
+      "showCatalogIsNew": false
+    },
+    {
+      "name": "Millie Bobby Brown",
+      "searchName": "Millie Bobby Brown",
+      "movieCatalogId": "mdblist.159236",
+      "showCatalogId": "mdblist.159237",
+      "showCatalogIsNew": false
+    },
+    {
+      "name": "Morgan Freeman",
+      "searchName": "Morgan Freeman",
+      "movieCatalogId": "mdblist.159240",
+      "showCatalogId": "mdblist.159286",
+      "showCatalogIsNew": false
+    },
+    {
+      "name": "Nicolas Cage",
+      "searchName": "Nicolas Cage",
+      "movieCatalogId": "mdblist.159241",
+      "showCatalogId": "mdblist.159284",
+      "showCatalogIsNew": false
+    },
+    {
+      "name": "Nicole Kidman",
+      "searchName": "Nicole Kidman",
+      "movieCatalogId": "mdblist.159242",
+      "showCatalogId": "mdblist.159243",
+      "showCatalogIsNew": false
+    },
+    {
+      "name": "Owen Wilson",
+      "searchName": "Owen Wilson",
+      "movieCatalogId": "mdblist.159244",
+      "showCatalogId": "ume.actor.owen-wilson.shows",
+      "showCatalogIsNew": true
+    },
+    {
+      "name": "Reese Witherspoon",
+      "searchName": "Reese Witherspoon",
+      "movieCatalogId": "mdblist.159247",
+      "showCatalogId": "mdblist.159248",
+      "showCatalogIsNew": false
+    },
+    {
+      "name": "Robert Downey Jr.",
+      "searchName": "Robert Downey Jr.",
+      "movieCatalogId": "mdblist.159249",
+      "showCatalogId": "mdblist.159250",
+      "showCatalogIsNew": false
+    },
+    {
+      "name": "Robin Williams",
+      "searchName": "Robin Williams",
+      "movieCatalogId": "mdblist.159251",
+      "showCatalogId": "mdblist.159285",
+      "showCatalogIsNew": false
+    },
+    {
+      "name": "Ryan Reynolds",
+      "searchName": "Ryan Reynolds",
+      "movieCatalogId": "mdblist.159252",
+      "showCatalogId": "ume.actor.ryan-reynolds.shows",
+      "showCatalogIsNew": true
+    },
+    {
+      "name": "Samuel L. Jackson",
+      "searchName": "Samuel L. Jackson",
+      "movieCatalogId": "mdblist.159253",
+      "showCatalogId": "mdblist.159254",
+      "showCatalogIsNew": false
+    },
+    {
+      "name": "Sandra Bullock",
+      "searchName": "Sandra Bullock",
+      "movieCatalogId": "mdblist.159255",
+      "showCatalogId": "ume.actor.sandra-bullock.shows",
+      "showCatalogIsNew": true
+    },
+    {
+      "name": "Seth Rogen",
+      "searchName": "Seth Rogen",
+      "movieCatalogId": "mdblist.160067",
+      "showCatalogId": "ume.actor.seth-rogen.shows",
+      "showCatalogIsNew": true
+    },
+    {
+      "name": "Steve Carell",
+      "searchName": "Steve Carell",
+      "movieCatalogId": "mdblist.159256",
+      "showCatalogId": "mdblist.159257",
+      "showCatalogIsNew": false
+    },
+    {
+      "name": "Sydney Sweeney",
+      "searchName": "Sydney Sweeney",
+      "movieCatalogId": "mdblist.159258",
+      "showCatalogId": "mdblist.159259",
+      "showCatalogIsNew": false
+    },
+    {
+      "name": "Sylvester Stallone",
+      "searchName": "Sylvester Stallone",
+      "movieCatalogId": "mdblist.159261",
+      "showCatalogId": "mdblist.159262",
+      "showCatalogIsNew": false
+    },
+    {
+      "name": "Timothée Chalamet",
+      "searchName": "Timothée Chalamet",
+      "movieCatalogId": "mdblist.158987",
+      "showCatalogId": "mdblist.158989",
+      "showCatalogIsNew": false
+    },
+    {
+      "name": "Tom Cruise",
+      "searchName": "Tom Cruise",
+      "movieCatalogId": "mdblist.159263",
+      "showCatalogId": "ume.actor.tom-cruise.shows",
+      "showCatalogIsNew": true
+    },
+    {
+      "name": "Tom Holland",
+      "searchName": "Tom Holland",
+      "movieCatalogId": "mdblist.159264",
+      "showCatalogId": "mdblist.159265",
+      "showCatalogIsNew": false
+    },
+    {
+      "name": "Zendaya",
+      "searchName": "Zendaya",
+      "movieCatalogId": "mdblist.158990",
+      "showCatalogId": "mdblist.158991",
+      "showCatalogIsNew": false
+    }
+  ],
+  "directors": [
+    {
+      "name": "Alfred Hitchcock",
+      "searchName": "Alfred Hitchcock",
+      "movieCatalogId": "mdblist.159462"
+    },
+    {
+      "name": "Brian De Palma",
+      "searchName": "Brian De Palma",
+      "movieCatalogId": "mdblist.159449"
+    },
+    {
+      "name": "Christopher Nolan",
+      "searchName": "Christopher Nolan",
+      "movieCatalogId": "mdblist.159441"
+    },
+    {
+      "name": "David Fincher",
+      "searchName": "David Fincher",
+      "movieCatalogId": "mdblist.159463"
+    },
+    {
+      "name": "David Lynch",
+      "searchName": "David Lynch",
+      "movieCatalogId": "mdblist.159451"
+    },
+    {
+      "name": "Denis Villeneuve",
+      "searchName": "Denis Villeneuve",
+      "movieCatalogId": "mdblist.159458"
+    },
+    {
+      "name": "Francis Ford Coppola",
+      "searchName": "Francis Ford Coppola",
+      "movieCatalogId": "mdblist.159465"
+    },
+    {
+      "name": "Greta Gerwig",
+      "searchName": "Greta Gerwig",
+      "movieCatalogId": "mdblist.159472"
+    },
+    {
+      "name": "Guillermo del Toro",
+      "searchName": "Guillermo del Toro",
+      "movieCatalogId": "mdblist.159466"
+    },
+    {
+      "name": "James Cameron",
+      "searchName": "James Cameron",
+      "movieCatalogId": "mdblist.159456"
+    },
+    {
+      "name": "John Carpenter",
+      "searchName": "John Carpenter",
+      "movieCatalogId": "mdblist.159457"
+    },
+    {
+      "name": "Martin Scorsese",
+      "searchName": "Martin Scorsese",
+      "movieCatalogId": "mdblist.159467"
+    },
+    {
+      "name": "Paul Thomas Anderson",
+      "searchName": "Paul Thomas Anderson",
+      "movieCatalogId": "mdblist.159464"
+    },
+    {
+      "name": "Peter Jackson",
+      "searchName": "Peter Jackson",
+      "movieCatalogId": "mdblist.159468"
+    },
+    {
+      "name": "Quentin Tarantino",
+      "searchName": "Quentin Tarantino",
+      "movieCatalogId": "mdblist.159453"
+    },
+    {
+      "name": "Ridley Scott",
+      "searchName": "Ridley Scott",
+      "movieCatalogId": "mdblist.159454"
+    },
+    {
+      "name": "Spike Lee",
+      "searchName": "Spike Lee",
+      "movieCatalogId": "mdblist.159452"
+    },
+    {
+      "name": "Stanley Kubrick",
+      "searchName": "Stanley Kubrick",
+      "movieCatalogId": "mdblist.159469"
+    },
+    {
+      "name": "Steven Spielberg",
+      "searchName": "Steven Spielberg",
+      "movieCatalogId": "mdblist.159455"
+    },
+    {
+      "name": "Wes Anderson",
+      "searchName": "Wes Anderson",
+      "movieCatalogId": "mdblist.159471"
+    }
+  ]
+}
